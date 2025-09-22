@@ -1,4 +1,4 @@
-# ENSIT.MVVMApp - .NET MVVM Desktop Sample (Academic Project)
+# Academique.MVVMApp - .NET MVVM Desktop Sample (Academic Project)
 
 **Elevator pitch:** A compact WPF desktop application demonstrating MVVM, EF Core (SQLite), DI, Serilog logging, async/await and performance-focused data access. This repo is an academic-quality demo you can run locally and inspect.
 
