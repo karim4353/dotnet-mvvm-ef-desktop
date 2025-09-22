@@ -1,0 +1,2 @@
+- Designed and implemented a WPF MVVM desktop app (C# / .NET 7) with Entity Framework Core (SQLite), DI and Serilog logging — reduced average query time by $[X%] using compiled queries and indexing.
+- Focused on clean code, async data access, cancellation tokens, and testing (xUnit) to produce a reliable academic demo suitable for interviews and coursework.

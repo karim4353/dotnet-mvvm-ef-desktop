@@ -1,0 +1,13 @@
+README.md - project overview, quickstart, features, resume-friendly summary
+LICENSE - MIT license
+.gitignore - typical .NET/WPF ignores
+package_manifest.txt - this file
+src/ - solution and projects (app, infrastructure, tests, perf)
+tools/ - helper scripts to build, run, seed DB
+docker/ - optional devcontainer and Dockerfile
+docs/ - architecture, performance, debugging and testing guides
+assets/ - screenshots and icon
+out/ - sample export and gitkeep
+.github/ - CI workflow
+resume_bullets.txt - resume-ready bullets
+case_study.md - 1-page case study

@@ -1,0 +1,13 @@
+bin/
+obj/
+*.db
+*.user
+*.suo
+.vs/
+.vscode/
+data/
+*.sqlite
+*.db-journal
+*.log
+*.userprefs
+*.ide.*
