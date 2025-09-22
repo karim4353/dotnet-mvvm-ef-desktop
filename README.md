@@ -33,7 +33,7 @@ dotnet run --project src/ENSIT.MVVMApp
 ```
 
 ## Features
-- Customer / Order simple domain with EF Core-backed persistence (SQLite file: `data/ensit.db`).
+- Customer / Order simple domain with EF Core-backed persistence (SQLite file: `data/ensi.db`).
 - Search/filter customers with async paging and cancellation.
 - Edit customer and save with optimistic UI update.
 - Logging via Serilog (console + file) and performance measurement of queries.
